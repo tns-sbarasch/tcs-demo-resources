@@ -41,3 +41,4 @@ jobs:
           directories:
             "./demo-terraform/aws"
           # Optional args
+          fail-on-violations: false
